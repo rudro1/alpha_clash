@@ -1,0 +1,21 @@
+
+body{
+    background-color: black;
+}
+.main{
+margin: 0px 100px 0px 100px;
+
+background-image: url(../images/background.png);
+background-position-x: center;
+background-repeat: no-repeat;
+height: 900px;
+  display: flex;
+font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    color: wheat;
+    word-spacing: 50px;
+    text-transform: capitalize;
+
+}
+
